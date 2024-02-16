@@ -55,3 +55,8 @@ select:hover{
     display: flex;
     justify-content: center;
 }
+@media screen and (min-width;420px){
+  .navbar{
+    background-color: aqua;
+  }  
+} 
