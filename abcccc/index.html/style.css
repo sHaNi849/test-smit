@@ -60,3 +60,11 @@ select:hover{
     background-color: aqua;
   }  
 } 
+@media screen and (min-width:720px) {
+    .navbar{
+        background-color: darkslateblue;
+    }
+    
+}
+
+
