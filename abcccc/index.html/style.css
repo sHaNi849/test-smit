@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    width: 1000px;
+    height: 80px;
+    background-color: antiquewhite;
+    border: 2px solid transparent;
+    display: flex;
+}
+.navbar-logo{
+    height: 50px;
+    width: 100px;
+    display:flex;
+    
+
+}
+.logo{
+    background-image: url("hostinger.png");
+
+    width: 100px;
+    height: 50px;
+    display: flex;
+}
+
+.input{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border: none;
+}
+select:hover{
+    border: 2px solid red;
+}
+.select{
+    border: 2px solid transparent;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    height: 400px;
+    width: 250px;
+    margin: 20px;
+   background-color: rgb(212, 115, 206) ;
+}
+.SMALL{
+    border: 2px solid blue;
+    color: blanchedalmond;
+    height: 40px;
+
+}
+.ccc{
+    display: flex;
+    justify-content: center;
+}
